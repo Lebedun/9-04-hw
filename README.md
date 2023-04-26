@@ -31,7 +31,7 @@
 
 Установите Grafana.
 
-![Имя Пользователя](https://github.com/lebedun/9-04-hw/blob/main/img/Screenshot_5jpg)
+![Имя Пользователя](https://github.com/lebedun/9-04-hw/blob/main/img/Screenshot_5.jpg)
 
 ---
 
@@ -39,5 +39,5 @@
 
 Интегрируйте Grafana и Prometheus.
 
-![Дашборд](https://github.com/lebedun/9-04-hw/blob/main/img/Screenshot_6jpg)
+![Дашборд](https://github.com/lebedun/9-04-hw/blob/main/img/Screenshot_6.jpg)
 
